@@ -9,7 +9,7 @@
 
 
 ### Current  
-- 🔭 I’m currently freelancer [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently freelancer  
   
 
 - 🌱 I’m currently learning Go and Kubernetes  
